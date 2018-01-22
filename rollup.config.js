@@ -17,6 +17,6 @@ module.exports = {
         }
     ],
     sourceMap: false,
-    external: ['d3-hierarchy', 'd3-scale'],
+    external: ['d3-shape', 'd3-scale'],
     plugins: [babel(), commonjs(), resolve()]
 };

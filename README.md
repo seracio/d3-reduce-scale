@@ -1,1 +1,1 @@
-# d3-reduce-scale
+# d3-stack-scale
